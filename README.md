@@ -2,6 +2,7 @@ Source code for papers titled:
 .ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
 
 .Babaeian A, Bayestehtashk A, Bandarabadi M (2015) Multiple Manifold Clustering Using Curvature Constrained Path. PLoS ONE 10(9): e0137986. doi: 10.1371/journal.pone.0137986
+Journal link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986
 
 Note: This file is not a final version and might be subject to some errors.
 
