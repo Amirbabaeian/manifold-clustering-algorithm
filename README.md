@@ -1,12 +1,8 @@
 Source code for papers titled:
-.ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
+Babaeian, A., Babaee, M., Bayestehtashk, A., & Bandarabadi, M. (2015). Nonlinear subspace clustering using curvature constrained distances. Pattern Recognition Letters, 68, 118-125.
 
-.Babaeian A, Bayestehtashk A, Bandarabadi M (2015) Multiple Manifold Clustering Using Curvature Constrained Path. PLoS ONE 10(9): e0137986. doi: 10.1371/journal.pone.0137986
-Journal link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986
 
-Note: This file is not a final version and might be subject to some errors.
-
-You should acknowledge and cite the related papers.
+Please acknowledge and cite the related papers.
 
 Amir Babaeian
 Email: ababaeian@ucsd.edu
@@ -14,7 +10,10 @@ Thanks to Professor Ery Arias-Castro for his advises during the project and  my 
 
 
 Related articles:
-Amir Babaeian, Mohammadreaza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Nonlinear Subspace Clustering Using Curvature Constrained Distances, Pattern Recognition Letters, Available online 25 September 2015, ISSN 0167-8655, http://dx.doi.org/10.1016/j.patrec.2015.09.001.
+ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
+Babaeian, A., Bayestehtashk, A., & Bandarabadi, M. (2015). Multiple Manifold Clustering Using Curvature Constrained Path. PloS one, 10(9), e0137986.
+Journal link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137986
+
 
 
 How to use the code:
