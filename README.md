@@ -29,16 +29,14 @@ labels = Path_Based_Clustering( D, 60, 10,15,2);
 Description of input and output parameters:
 %        Run path based clustering algorithm
 %        ON Entry:
-%        data                  n*p data(N should be the number of data points and
-%                              p is the number of variables)
-%        k                     Radius of epsilon graph or no neighbours
-%        no_landmarks          Number of landmarks
-%        angle_constraint      Angel constraint used in shortest path algorithm
-%        no_clusters           Number of clusters
+%        data     ----             n*p data(N should be the number of data points and p is the number of variables)
+%        k        ---              Radius of epsilon graph or no neighbours
+%        no_landmarks    ----      Number of landmarks
+%        angle_constraint ----     Angel constraint used in shortest path algorithm
+%        no_clusters   ----        Number of clusters
 %        On Exit:
-%        labels                Labels that computed using result of clustering
-%                              algorithm
-%
+%        labels     ----           Labels that computed using result of clustering algorithm
+
 %  Amir Babaeian.
 %  Department of Mathematics
 %  UC San Diego
