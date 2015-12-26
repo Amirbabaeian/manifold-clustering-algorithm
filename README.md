@@ -29,8 +29,8 @@ In order to use the code you should run demo file as follow:
 
 Example:
 ```matlab
-% labels = Path_Based_Clustering( data, k, no_landmarks,angle_constraint,no_clusters );
-labels = Path_Based_Clustering( D, 60, 10, 15, 2);
+% labels = Path_Based_Clustering(data, k, no_landmarks, angle_constraint, no_clusters);
+  labels = Path_Based_Clustering(D, 60, 10, 15, 2);
 % Labels are the output of clustering algorithm.
 ```
 
