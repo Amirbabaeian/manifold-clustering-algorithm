@@ -24,7 +24,7 @@ Multiple Manifold Clustering Using Curvature Constrained Path. PloS one, 10(9), 
 
 ##How to use the code:
 
-In order to use the code you should run demo file as follow:
+In order to use the code you should run the demo file as follow:
 
 Example:
 ```matlab
