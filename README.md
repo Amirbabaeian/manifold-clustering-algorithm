@@ -12,7 +12,7 @@ Please acknowledge and cite the related papers.
  Email: ababaeian@ucsd.edu
 ```
 
-Thanks to Professor Ery Arias-Castro for his advises during the project and  my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
+Thanks to my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
 
 
 ##Related articles:
