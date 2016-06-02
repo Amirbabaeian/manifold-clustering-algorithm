@@ -14,6 +14,7 @@ Please acknowledge and cite the related papers.
 
 Thanks to my Coauthors: Mohammadreza Babaee, Alireza Bayestehtashk, Mojtaba Bandarabadi, Amin Ghadesi.
 
+Thanks to Professor Ery Arias-Castro for his advices during the projects. 
 
 ##Related articles:
 ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
