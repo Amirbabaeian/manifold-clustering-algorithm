@@ -10,7 +10,7 @@ Please acknowledge and cite the related papers.
 ```
  Amir Babaeian
  Email: ababaeian@ucsd.edu
- Alireza ByestehTashk
+ Alireza Bayestehtashk
  Email: bayesteh@ohsu.edu
 ```
 
