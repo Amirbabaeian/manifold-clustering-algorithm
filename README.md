@@ -10,8 +10,9 @@ Please acknowledge and cite the related papers.
 ```
  Amir Babaeian
  Email: ababaeian@ucsd.edu
+ Alireza ByestehTashk
+ Email: bayesteh@ohsu.edu
 ```
-
 
 Thanks to Professor Ery Arias-Castro for his advices during the project. 
 
