@@ -14,7 +14,6 @@ Please acknowledge and cite the related papers.
  Email: bayesteh@ohsu.edu
 ```
 
-Thanks to Professor Ery Arias-Castro for his advices during the project. 
 
 ##Related articles:
 ANGLE CONSTRAINED PATH FOR CLUSTERING OF MULTIPLE MANIFOLDS, International conference on image processing(ICIP 2015)
