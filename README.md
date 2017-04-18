@@ -1,17 +1,13 @@
 ##Source code for papers titled:
 **Nonlinear subspace clustering using curvature constrained distances. Pattern Recognition Letters, 68, 118-125.**
-+ Babaeian, A.
-+ Babaee, M.
-+ Bayestehtashk, A.
-+ Bandarabadi, M. 
+
 
 Please acknowledge and cite the related papers.
 
 ```
  Amir Babaeian
  Email: ababaeian@ucsd.edu
- Alireza Bayestehtashk
- Email: bayesteh@ohsu.edu
+ 
 ```
 
 
